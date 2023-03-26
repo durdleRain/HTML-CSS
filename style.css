@@ -1,0 +1,128 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #161616;
+    display: flex;
+    color: #f1f1f1;
+    height: 50px; 
+    padding-left: 10px;
+}
+
+.menu a {
+    font-size: 30px;
+    color: #f1f1f1;
+}
+
+.menu img {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    height: 30px;
+    width: 30px;
+}
+
+.welcome {
+    background-image: url(img/9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1100px;
+    opacity: 0.8;
+    color: #f1f1f1;
+}
+
+.welcome h1 {
+    text-align: center;
+    padding-top: 900px;
+}
+
+.welcome p {
+    text-align: center;
+    font-size: 50px;
+ }
+
+ .promotion {
+    background-color: #181613;
+    height: 2350px;
+ }
+
+ .fruit {
+    color: white;
+    padding-top: 80px;
+    padding-left: 50px;
+ }
+
+ .fruit h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+ }
+
+ .fruit p {
+    font-size: 25px;
+    margin-bottom: 40px;
+ }
+
+ .fruit span {
+    color: #e32636;
+ }
+
+ .fruit img {
+    width: 500px;
+    margin-bottom: 100px;
+ }
+
+ .cookie {
+    color: white;
+    text-align: center;
+ }
+
+ .cookie h1 {
+    font-size: 40px;
+    margin-bottom: 40px;
+ }
+
+ .cookie span {
+    color: #D48700;
+ }
+
+ .cookie img {
+    width: 500px;
+    margin-bottom: 40px;
+ }
+
+ .cookie p {
+    font-size: 25px;
+    margin-bottom: 100px;
+ }
+
+ .roasting {
+    color: white;
+    padding-right: 50px;
+    text-align: right;
+
+ }
+
+ .roasting h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+ }
+
+ .roasting p {
+    font-size: 25px;
+    margin-bottom: 40px;
+ }
+
+ .roasting span {
+    color: #5E2808;
+ }
+
+ .roasting img {
+    width: 500px;
+    margin-bottom: 100px;
+ }
